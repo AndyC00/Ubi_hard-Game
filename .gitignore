@@ -5,9 +5,10 @@
 # If you have folders named "obj", "library" or "temp", they will always be ignored wherever they are in the project.
 # If you want to avoid this, remove the "**" and replace it with the real folder name.
 
-# Include the Fantasy Skybox FREE assets
-!Assets/Fantasy\ Skybox\ FREE/
-!Assets/Fantasy\ Skybox\ FREE/**
+# Unity3D generated meta files
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
 
 **/[Ll]ibrary/
 **/[Tt]emp/
